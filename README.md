@@ -6,7 +6,7 @@ This repository reproduces the results from the paper **"DOME: Drone-Assisted Mo
 ## Repository Contents
 - **`DOME.ipynb`**: The full implementation of the DOME system, including task generation, allocation, and multi-drone flight planning.
 - **`DOME.pdf`**: The paper that introduces the DOME system, its methodology, and its evaluation.
-- **`DOME FINAL.pptx`**: A presentation summarizing the project and showcasing the results.
+- **`DOME.pptx`**: A presentation summarizing the project and showcasing the results.
 
 ## Overview of DOME
 The DOME system is designed to enhance situational awareness and response efficiency for Rx fires. Rx fires are controlled burns used by forest services to manage hazardous fuels and promote ecosystem health. DOME coordinates multiple drones equipped with sensors to perform real-time monitoring.
@@ -43,7 +43,7 @@ Our experiments demonstrate the following results:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/dome.git
+   git clone https://github.com/Twix03/DOME.git
    cd dome
    ```
 2. Open `DOME.ipynb` in Jupyter Notebook to run the simulations.
