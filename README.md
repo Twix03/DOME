@@ -44,7 +44,7 @@ Our experiments demonstrate the following results:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Twix03/DOME.git
-   cd dome
+   cd DOME
    ```
 2. Open `DOME.ipynb` in Jupyter Notebook to run the simulations.
 
